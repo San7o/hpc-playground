@@ -8,4 +8,7 @@ qemu-system-x86_64 \
         -m 4G \
         -cpu host \
         -vga virtio \
-        -display sdl,gl=on
+        -display sdl,gl=on \
+        -device e1000,netdev=net0 \
+        -netdev user,id=net0 \
+        -nic tap

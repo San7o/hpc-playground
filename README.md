@@ -5,7 +5,7 @@ over the years, ranging from crappy laptops
 to my old android phones (which never broke, I had to buy
 another one just because they were too slow and some apps
 were not even supported anymore... sight).
-Well, I am the kind of person that will never trow away
+Well, I am the kind of person that will never throw away
 old technology, because, you know, I might **need
 It one day**. Obviously, I might need an old malfunctioning
 router, who knows. I might need that old pentium II laptop
@@ -32,5 +32,5 @@ with OpenBSD and AlmaLinux which seem to be good choices for
 server stuff. On the older laptops I will install netBSD
 because It supports a wide veriety of devices.
 
-I'll also document my journey and thought here, as a little
-developer diary for keeping a record.
+I'll also document my journey and thoughts here, as a little
+developer diary to keep a record.
